@@ -17,10 +17,10 @@ This analysis aims to answer the following key questions:
 # Data Understanding
 To gain a comprehensive understanding of the movie industry and address Microsoft's business problem, several types of data can be collected and analyzed. Here is a breakdown of the data sources and their relevance:
 ### Sources:
-* Box Office data from Box Office Mojo 
-* TMDB Movie Reviews and Ratings 
-* IMDB Movie Reviews and Ratings
-* TheNumbers
+* Box Office data from [Box Office Mojo](https://www.boxofficemojo.com/)
+* [TMDB Movie Reviews and Ratings](https://www.themoviedb.org/)
+* [IMDB Movie Reviews and Ratings](https://www.imdb.com/)
+* [TheNumbers](https://www.the-numbers.com/)
 
 A summary of the information obtained from these sources includes:
 1. Genres
@@ -81,7 +81,7 @@ My recommendation to Microsoft is that they should:
 
 **Avoid History as the Primary Genre:** Considering that History is the least performing genre, it may be a important for Microsoft to be cautious when producing movies solely within this genre. While there may still be niche markets and specific historical events that can be successful, it's recommended to balance historical movies with genres that have broader audience appeal and higher commercial potential.
 
-
+To view the presentation,[click here.](https://github.com/brandonbush2/Microsoft-Movie-Studio-Project/blob/master/presentation.pdf)
 
 
 
