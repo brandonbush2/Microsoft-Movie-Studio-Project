@@ -19,6 +19,7 @@ This analysis aims to answer the following key questions:
 To gain a comprehensive understanding of the movie industry and address Microsoft's business problem, several types of data can be collected and analyzed. Here is a breakdown of the data sources and their relevance:
 * Box Office data from Box Office Mojo - This includes information on movie revenues, titles, and performance at the box office. 
 * TMDB Movie Reviews and Ratings - Data from reputable sources like IMDb, and other review aggregators can be analyzed to understand the critical reception of films and their impact on audience preferences.
+
 A summary of the information obtained from these sources includes:
 1. Genres
 2. Movie Titles
@@ -31,18 +32,24 @@ A summary of the information obtained from these sources includes:
 
 # Data Analysis
 Here, I studied the cleaned data and created visuals that would provide a better understanding of the results. The cleaned data was explored and examined to gain insights and draw meaningful conclusions related to Microsoft's new movie studio. The visuals included were bar graphs and scatter plots. The aim for this analysis was to answer the questions formulated earlier. 
+
 With the first visualization;
+
 ![Average Rating of different Genres](images/genres.png)
->From the bar graph, it is clear that the best performing genre is a combination of Adventure, Animation and Comedy and the least performing genre is History. The combination of Adventure, Animation and Comedy likely appeals to a wide range of audiences On the other hand, the lower performance of the History genre suggests that it may have a more limited audience appeal.
+
+From the bar graph, it is clear that the best performing genre is a combination of Adventure, Animation and Comedy and the least performing genre is History. The combination of Adventure, Animation and Comedy likely appeals to a wide range of audiences On the other hand, the lower performance of the History genre suggests that it may have a more limited audience appeal.
 
 ![Average Rating of different Runtime minutes](images/runtime.png)
->From the line graph above, the average rating is highest when the runtime minutes is also highest and it's also low when the runtime minutes are low. Movies with longer runtimes often have more time to develop complex characters, intricate plotlines, and explore deeper themes. This allows for a more comprehensive storytelling experience, which can lead to a higher level of engagement and appreciation from viewers. 
+
+From the line graph above, the average rating is highest when the runtime minutes is also highest and it's also low when the runtime minutes are low. Movies with longer runtimes often have more time to develop complex characters, intricate plotlines, and explore deeper themes. This allows for a more comprehensive storytelling experience, which can lead to a higher level of engagement and appreciation from viewers. 
 
 ![Domestic Gross vs Foreign Gross](images/domestic-vs-foreign.png)
-> From the above line graph, it is clear that foreign gross is higher that domestic gross. Movies have amassed more money from the foreign markets rather than the domestic market.Alice in Wonderland(2010) had the highest foreign gross and checking its domestic gross, it was lower. More of the viewers came from foreign markets resulting to more success for the Studio that produced it.
+
+ From the above line graph, it is clear that foreign gross is higher that domestic gross. Movies have amassed more money from the foreign markets rather than the domestic market.Alice in Wonderland(2010) had the highest foreign gross and checking its domestic gross, it was lower. More of the viewers came from foreign markets resulting to more success for the Studio that produced it.
 
 ![Popularity of original language](images/languages.png)
-> Clearly, Movies whose original language is en which represents English have the most popularity as compared to other languages. English is one of the most widely spoken languages around the world. As a result, movies produced in English have a broader potential audience and are more accessible to viewers from diverse linguistic backgrounds. English-language films can reach a larger international market, which contributes to increased visibility, popularity, and potential success.
+
+Clearly, Movies whose original language is en which represents English have the most popularity as compared to other languages. English is one of the most widely spoken languages around the world. As a result, movies produced in English have a broader potential audience and are more accessible to viewers from diverse linguistic backgrounds. English-language films can reach a larger international market, which contributes to increased visibility, popularity, and potential success.
 
 # Conclusion
 There is a positive correlation between movie runtime and average rating. Movies with longer runtimes tend to receive higher average ratings, suggesting that audiences may appreciate and value movies that provide more content, depth, or storytelling. Conversely, movies with shorter runtimes may have limited time to develop characters, narratives, or themes, which could result in lower average ratings.
