@@ -13,12 +13,14 @@ This analysis aims to answer the following key questions:
 * Does runtime of different movies have an impact on their viewers ratings?
 * What is the difference in performance between domestic gross and foreign gross for movies at the box office?
 * Does the original language of movies have an impact on movie popularity?
-* Is there a relationship between production budget and total gross revenue of movies?
 
 # Data Understanding
 To gain a comprehensive understanding of the movie industry and address Microsoft's business problem, several types of data can be collected and analyzed. Here is a breakdown of the data sources and their relevance:
-* Box Office data from Box Office Mojo - This includes information on movie revenues, titles, and performance at the box office. 
-* TMDB Movie Reviews and Ratings - Data from reputable sources like IMDb, and other review aggregators can be analyzed to understand the critical reception of films and their impact on audience preferences.
+### Sources:
+* Box Office data from Box Office Mojo 
+* TMDB Movie Reviews and Ratings 
+* IMDB Movie Reviews and Ratings
+* TheNumbers
 
 A summary of the information obtained from these sources includes:
 1. Genres
@@ -29,6 +31,14 @@ A summary of the information obtained from these sources includes:
 6. Release dates
 7. Runtime Minutes
 8 .Popularity
+
+### Relevance of the information
+* We can be able to understand audience preferences by analyzing the performance of different genres which can help determine which genres are currently popular and have a higher likelihood of success.
+* Analyzing ratings can help identify films that have been well-received and positively reviewed, suggesting higher chances of success.
+* Analyzing the performance of films across different budget ranges can help identify patterns and determine optimal budget allocation strategies for Microsoft's new movie studio.
+* Analyzing the performance of films in different markets can inform decisions regarding international distribution strategies and potential revenue streams.
+* Analyzing runtime minutes can help identify patterns regarding film duration and potential audience preferences.
+* Analyzing popularity metrics can help gauge the potential success and audience reception of movies.
 
 # Data Analysis
 Here, I studied the cleaned data and created visuals that would provide a better understanding of the results. The cleaned data was explored and examined to gain insights and draw meaningful conclusions related to Microsoft's new movie studio. The visuals included were bar graphs and scatter plots. The aim for this analysis was to answer the questions formulated earlier. 
